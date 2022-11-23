@@ -1,0 +1,49 @@
+.box-input-token {
+  width: 300px;
+  height: 38px;
+  font-size: 20px;
+  border: 1px solid #ee710c;
+  border-radius: 10px;
+}
+
+.box-input-token:focus {
+  outline-color: #ee710c;
+}
+
+.dni-imagen {
+  width: 180px;
+  height: 120px;
+}
+
+.btn-img-dni {
+  width: 150px;
+  height: 35px;
+  background-color: #ffffff;
+  color: #ee710c;
+  border: 2px solid #ee710c;
+  border-radius: 10px;
+  padding: 0 3px;
+}
+
+.dni-fondo {
+  border: 1px solid #ee710c;
+  width: 500px;
+  height: 220px;
+}
+
+.dni-fondo img {
+  margin: auto;
+}
+
+.fondo-mensaje {
+  background-color: #ffc107;
+  width: 560px;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  margin: 0;
+}

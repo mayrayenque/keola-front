@@ -1,0 +1,45 @@
+.btn-token {
+  width: 60px;
+  height: 60px;
+  color: #000000;
+  font-size: 20px;
+  font-weight: 500;
+  background-color: #efebe7;
+  border: none;
+  border-radius: 5px;
+}
+
+.box-input-token {
+  width: 300px;
+  height: 38px;
+  font-size: 20px;
+  border: 1px solid #ee710c;
+  border-radius: 10px;
+}
+
+.box-input-token:focus {
+  outline-color: #ee710c;
+}
+
+.img-delete {
+  width: 30px;
+  height: 28px;
+}
+
+.btn-keola {
+  background-color: #ffa500;
+  border: none;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 400;
+  border-radius: 10px;
+  padding: 8px 30px;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  margin: 0;
+}
